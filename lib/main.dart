@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
       'answers': [
         {'text': 'Black', 'score': 10},
         {'text': 'Red', 'score': 5},
-        {'text': 'Greem', 'score': 1},
+        {'text': 'Green', 'score': 1},
         {'text': 'White', 'score': 3}
       ],
     },
